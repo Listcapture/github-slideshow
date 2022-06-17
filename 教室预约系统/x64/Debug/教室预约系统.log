@@ -1,0 +1,9 @@
+﻿  Main.cpp
+C:\Users\李田\Desktop\教室预约系统\Main.cpp(23,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\李田\Desktop\教室预约系统\Main.cpp(23,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\李田\Desktop\教室预约系统\Main.cpp(28,22): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\李田\Desktop\教室预约系统\Main.cpp(28,41): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  group.cpp
+  teacher.cpp
+  正在生成代码...
+  教室预约系统.vcxproj -> C:\Users\李田\Desktop\教室预约系统\x64\Debug\教室预约系统.exe
